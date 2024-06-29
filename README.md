@@ -25,9 +25,9 @@
 
 인공지능 공부에 도움이 되었던 다양한 문서와 웹사이트 링크를 모아두었습니다.
 
-- [CS231n 강의 사이트] ([링크 추가][https://ingu627.github.io/categories/cs231n](https://cs231n.stanford.edu/)
-- [딥러닝 논문 모음] ([링크 추가]https://wikidocs.net/book/2788)
-- [기타 유용한 자료] ([링크 추가](https://ingu627.github.io/categories/cs231n))
+- [CS231n 강의 사이트](https://cs231n.stanford.edu/)
+- [딥러닝 논문 모음](https://wikidocs.net/book/2788)
+- [기타 유용한 자료](https://ingu627.github.io/categories/cs231n)
 
 ## 실습 코드
 
